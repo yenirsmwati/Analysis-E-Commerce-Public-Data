@@ -6,3 +6,4 @@ The process carried out in this analysis:
 - Data Cleaning : ``` missing value ```, ```duplicate data```, ```structural data```
 - EDA (Exploratory Data Analysis) : ```merge tabel```
 - Data Visualization : using ```streamlit```
+  [Link simple dashboard in streamlit](https://github.com/yenirsmwati/dashboard-ecommerce)
